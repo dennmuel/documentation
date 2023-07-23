@@ -93,8 +93,11 @@ Configure the app in Nextcloud
 *********************************
 
 Go to the Apps section and choose "Office & text"
-Install the "Collabora Online app"
+
+Install the "`Nextloud Office <https://apps.nextcloud.com/apps/richdocuments>`_" app
+
 Admin -> Office -> Specify the server you have setup before (e.g. "https://office.example.com")
+
 Congratulations, your Nextcloud has Collabora Online Office integrated!
 
 
